@@ -34,6 +34,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akeelmohammad&show_icons=true&locale=en&layout=compact" alt="akeelmohammad" /></p>
 <br clear="both">
+<p align="center">
+  <img src="assets/banner.svg" alt="hello world!" width="100%">
+</p>
 
 
 
